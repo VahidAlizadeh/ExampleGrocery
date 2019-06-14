@@ -1,3 +1,6 @@
+->RefactoringNumber->89477<-ExtractSuperClass(thiagodnf.sootparser.example.grocery.customer.Customer;Class_5;[addressNumber|birthDate|name];[setBirthDate])
+->RefactoringNumber->89478<-PullUpField(thiagodnf.sootparser.example.grocery.customer.Customer;Class_5;[addressZipCode];[])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery.customer;
 
 import java.util.Date;

@@ -1,3 +1,5 @@
+->RefactoringNumber->89476<-DecreaseFieldSecurity(thiagodnf.sootparser.example.grocery.payment.DebitCard;;[number];[])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery.payment;
 
 public class DebitCard extends Card{

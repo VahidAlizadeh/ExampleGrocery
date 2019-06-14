@@ -1,3 +1,5 @@
+->RefactoringNumber->89470<-MoveField(thiagodnf.sootparser.example.grocery.payment.CreditCard;thiagodnf.sootparser.example.grocery.order.Order;[number];[])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery.order;
 
 import java.util.ArrayList;

@@ -1,3 +1,7 @@
+->RefactoringNumber->89475<-PushDownMethod(thiagodnf.sootparser.example.grocery.payment.Card;thiagodnf.sootparser.example.grocery.payment.CreditCard;[];[setName])
+->RefactoringNumber->89479<-PushDownMethod(thiagodnf.sootparser.example.grocery.payment.Card;thiagodnf.sootparser.example.grocery.payment.CreditCard;[];[setExpirationDate])
+->RefactoringNumber->89480<-PullUpMethod(thiagodnf.sootparser.example.grocery.payment.CreditCard;thiagodnf.sootparser.example.grocery.payment.Card;[];[getDiscount])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery.payment;
 
 public abstract class Card extends Payment{

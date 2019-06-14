@@ -1,3 +1,6 @@
+->RefactoringNumber->89482<-IncreaseMethodSecurity(thiagodnf.sootparser.example.grocery.MainClass;;[];[createItem])
+->RefactoringNumber->89483<-MoveField(thiagodnf.sootparser.example.grocery.employee.Employee;thiagodnf.sootparser.example.grocery.MainClass;[employeeId];[])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery;
 
 import java.util.Arrays;
