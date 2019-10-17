@@ -1,3 +1,6 @@
+->RefactoringNumber->89469<-ExtractSuperClass(thiagodnf.sootparser.example.grocery.employee.Employee;Class_1;[name];[printComplexReports|setName])
+->RefactoringNumber->89483<-MoveField(thiagodnf.sootparser.example.grocery.employee.Employee;thiagodnf.sootparser.example.grocery.MainClass;[employeeId];[])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery.employee;
 
 import java.util.List;

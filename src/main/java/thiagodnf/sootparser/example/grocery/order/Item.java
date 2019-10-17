@@ -1,3 +1,5 @@
+->RefactoringNumber->89474<-ExtractSuperClass(thiagodnf.sootparser.example.grocery.order.Item;Class_4;[productId|productName];[getProductId|setAmount|setDiscount|toString])
+<-endRefactoring marker->
 package thiagodnf.sootparser.example.grocery.order;
 
 import thiagodnf.sootparser.example.grocery.util.UUIDUtil;
