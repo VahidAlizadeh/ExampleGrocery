@@ -4,15 +4,7 @@ public class CreditCard extends Card{
 
 	protected String number;	
 	
-	protected String securityNumber;
-
-	public String getSecurityNumber() {
-		return securityNumber;
-	}
-
-	public void setSecurityNumber(String securityNumber) {
-		this.securityNumber = securityNumber;
-	}
+	
 
 	public double getDiscount() {
 
